@@ -1,5 +1,17 @@
-# Vue 3 + TypeScript + Vite
+# 🚀 My Dashboard – Vue 3 + TypeScript + Vite  
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Ce projet est une application **Vue 3** créée avec **Vite** et **TypeScript**.  
+Il sert de base pour apprendre **Vue.js** et construire une interface dynamique.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 🎯 Fonctionnalités  
+✅ Vue 3 avec `<script setup>`  
+✅ TypeScript pour un typage sécurisé  
+✅ Composants réutilisables  
+✅ Prêt pour être étendu avec Vue Router & Pinia  
+
+## 🛠️ Installation & Démarrage  
+
+### 1️⃣ Cloner le repo  
+```sh
+git clone https://github.com/jmlc45120/my-dashboard.git
+cd my-dashboard

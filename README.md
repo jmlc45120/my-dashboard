@@ -13,5 +13,5 @@ Il sert de base pour apprendre **Vue.js** et construire une interface dynamique.
 
 ### 1️⃣ Cloner le repo  
 ```sh
-git clone https://github.com/TON-NOM-D-UTILISATEUR/my-dashboard.git
+git clone https://github.com/jmlc45120/my-dashboard.git
 cd my-dashboard
